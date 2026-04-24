@@ -1,4 +1,4 @@
-#Custom Modded BIOS Repository
+Custom Modded BIOS Repository
 This repository hosts customized BIOS firmware files designed to unlock advanced hardware functionality, remove vendor-imposed restrictions, and improve system privacy. These modifications are intended for power users and enthusiasts looking to extend the capabilities of workstation and desktop hardware.
 
 Dell Precision Tower 7910
